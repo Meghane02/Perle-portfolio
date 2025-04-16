@@ -1,0 +1,61 @@
+body {
+    font-family: Tshinkobo-Meghane;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.sidebar {
+    width: 30%;
+    background-color: #e6ecf4;
+    padding: 30px;
+    color: #0d2b53;
+}
+
+.sidebar img {
+    width: 100%;
+    border-radius: 50%;
+    border-bottom: 20px;
+} 
+
+.sidebar h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.sidebar p {
+    margin: 5px 0;
+}
+
+.main {
+    width: 70%;
+    padding: 30px;
+    background-color: #fff;
+}
+
+.section {
+    margin-bottom: 30px;
+}
+
+.section h3 {
+    color: #0d2b53;
+    border-bottom: 2px solid #0d2b53;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+ul {
+    list-style: disc;
+    padding-left: 20px;
+}
+
+.skill-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.skill-list li {
+    width: 45%;
+}
+
